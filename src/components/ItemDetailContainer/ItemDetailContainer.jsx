@@ -20,7 +20,6 @@ export const ItemDetailContainer = () => {
       })
       .then((data) => {
         const item = data.find((product) => product.id == id);
-        console.log(data);
 
         if (item) {
           setItemDetail(item);
