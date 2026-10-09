@@ -1,0 +1,45 @@
+.filtro-categorias {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.filtro-categorias li a {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+  padding: 1rem 2rem 0.6rem;
+  border: 2px solid #ffe81f;
+  border-radius: 1rem;
+  background-color: #111111;
+  transition:
+    background-color 0.2s,
+    color 0.2s,
+    transform 0.2s;
+}
+
+.filtro-categorias li a:hover {
+  transform: scale(1.05);
+  color: #ffd000;
+  border-color: #ffd000;
+}
+
+/* NavLink agrega la clase "active" al link de la ruta actual */
+.filtro-categorias li a.active {
+  background-color: #ffe81f;
+  color: black;
+}
+
+@media (max-width: 600px) {
+  .filtro-categorias {
+    gap: 1rem;
+  }
+
+  .filtro-categorias li a {
+    font-size: 1.2rem;
+    padding: 0.8rem 1.4rem 0.4rem;
+  }
+}
