@@ -6,7 +6,7 @@
     "price": 10000,
     "img": "/img/slavei.png",
     "alt": "Imagen del SALVE I",
-    "category": "Imperial"
+    "category": "imperial"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "price": 20000,
     "img": "/img/falcon.png",
     "alt": "Imagen del Halcon milenario",
-    "category": "Rebelde"
+    "category": "rebel"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "price": 7000,
     "img": "/img/tief.png",
     "alt": "Imagen del TIE Fighter",
-    "category": "Imperial"
+    "category": "imperial"
   },
   {
     "id": 4,
@@ -33,16 +33,16 @@
     "price": 13000,
     "img": "/img/lambda.png",
     "alt": "Imagen de la nave lambda",
-    "category": "Imperial"
+    "category": "imperial"
   },
   {
     "id": 5,
     "name": "x-Wing",
-    "description": "El clasico de los rebeldes",
+    "description": "El clasico de los rebels",
     "price": 10000,
     "img": "/img/xwing.png",
     "alt": "Imagen del XWING",
-    "category": "Rebelde"
+    "category": "rebel"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "price": 35000,
     "img": "/img/atat.png",
     "alt": "Imagen del AT-AT",
-    "category": "Imperial"
+    "category": "imperial"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "price": 8500,
     "img": "/img/atst.png",
     "alt": "Imagen del AT-ST",
-    "category": "Imperial"
+    "category": "imperial"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "price": 16000,
     "img": "/img/laat.png",
     "alt": "Imagen de la canonera LAAT",
-    "category": "Republica"
+    "category": "republic"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "price": 12500,
     "img": "/img/n1.png",
     "alt": "Imagen del caza N-1 de Naboo",
-    "category": "Republica"
+    "category": "republic"
   },
   {
     "id": 10,
@@ -86,8 +86,8 @@
     "description": "Para que querian dos puentes no?",
     "price": 45000,
     "img": "/img/repcrus.png",
-    "alt": "Imagen del crucero de ataque de la Republica",
-    "category": "Republica"
+    "alt": "Imagen del crucero de ataque de la republic",
+    "category": "republic"
   },
   {
     "id": 11,
@@ -96,6 +96,6 @@
     "price": 60000,
     "img": "/img/stardes.png",
     "alt": "Imagen del Destructor Estelar",
-    "category": "Imperial"
+    "category": "imperial"
   }
 ]
