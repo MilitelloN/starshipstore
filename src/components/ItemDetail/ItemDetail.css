@@ -1,0 +1,19 @@
+.detalle-producto {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.detalle-producto .btn {
+  color: #111111;
+  display: inline-flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+/* Pisa a .card img para que el icono no ocupe toda la tarjeta */
+.detalle-producto .card .btn img {
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-bottom: 0.5rem;
+}

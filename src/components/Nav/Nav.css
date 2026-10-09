@@ -1,0 +1,42 @@
+.header-nav {
+  margin-right: 2rem;
+  padding: 1rem;
+}
+
+.header-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.header-nav ul li a {
+  text-decoration: none;
+  font-size: 2rem;
+  color: inherit;
+  display: inline-block;
+  padding: 1rem;
+}
+
+.header-nav ul li a:hover {
+  color: #ffd000;
+}
+
+@media (max-width: 600px) {
+  .header-nav {
+    margin: 0;
+  }
+}
+
+.header-nav ul li a:has(img) {
+  display: inline-flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+/* El icono es negro: el filtro lo pasa al amarillo del sitio */
+.header-nav ul li a img {
+  width: 2.5rem;
+  height: 2.5rem;
+  filter: invert(88%) sepia(61%) saturate(1352%) hue-rotate(358deg)
+    brightness(104%) contrast(104%);
+}

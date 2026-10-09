@@ -1,0 +1,44 @@
+header {
+  background: transparent;
+  color: #ffe81f;
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.div-logo {
+  margin-left: 2rem;
+  font-weight: bold;
+}
+
+.logo {
+  text-decoration: none;
+  font-size: 2rem;
+  color: inherit;
+  padding: 1rem;
+
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.logo img {
+  height: 6rem;
+  border-radius: 1rem;
+}
+
+.logo p {
+  font-size: 2rem;
+}
+
+@media (max-width: 600px) {
+  header {
+    flex-direction: column;
+  }
+
+  .div-logo {
+    margin: 0;
+  }
+}

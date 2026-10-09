@@ -1,0 +1,30 @@
+footer {
+  color: #ffe81f;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.411);
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+footer .footer-list {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.footer-list li {
+  padding: 1rem;
+}
+
+.footer-list img {
+  width: 5rem;
+  padding: 0.5rem;
+}
+
+@media (max-width: 600px) {
+  footer {
+    flex-direction: column;
+  }
+}

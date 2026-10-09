@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Slave i",
+    "description": "Las mejores cargas sismicas salen de aca",
+    "price": 10000,
+    "img": "/img/slavei.png",
+    "alt": "Imagen del SALVE I",
+    "category": "Imperial"
+  },
+  {
+    "id": 2,
+    "name": "Millenium Falcon",
+    "description": "Cruzo el corredor de Kessel en menos de doce parsecs",
+    "price": 20000,
+    "img": "/img/falcon.png",
+    "alt": "Imagen del Halcon milenario",
+    "category": "Rebelde"
+  },
+  {
+    "id": 3,
+    "name": "Tie Fighter",
+    "description": "La vieja confiable del imperio",
+    "price": 7000,
+    "img": "/img/tief.png",
+    "alt": "Imagen del TIE Fighter",
+    "category": "Imperial"
+  },
+  {
+    "id": 4,
+    "name": "Lambda",
+    "description": "Sabes que la situacion empeoro cuando ves bajar a vader",
+    "price": 13000,
+    "img": "/img/lambda.png",
+    "alt": "Imagen de la nave lambda",
+    "category": "Imperial"
+  },
+  {
+    "id": 5,
+    "name": "x-Wing",
+    "description": "El clasico de los rebeldes",
+    "price": 10000,
+    "img": "/img/xwing.png",
+    "alt": "Imagen del XWING",
+    "category": "Rebelde"
+  },
+  {
+    "id": 6,
+    "name": "AT-AT",
+    "description": "ideal para pasear por Hoth. No incluye proteccion contra cables de remolque",
+    "price": 35000,
+    "img": "/img/atat.png",
+    "alt": "Imagen del AT-AT",
+    "category": "Imperial"
+  },
+  {
+    "id": 7,
+    "name": "AT-ST",
+    "description": "Resistente a todo, menos a los troncos de los ewoks",
+    "price": 8500,
+    "img": "/img/atst.png",
+    "alt": "Imagen del AT-ST",
+    "category": "Imperial"
+  },
+  {
+    "id": 8,
+    "name": "LAAT",
+    "description": "No incluye asientos, ni cinturones de seguridad. Las puertas tampoco cierran.",
+    "price": 16000,
+    "img": "/img/laat.png",
+    "alt": "Imagen de la canonera LAAT",
+    "category": "Republica"
+  },
+  {
+    "id": 9,
+    "name": "N-1 Starfighter",
+    "description": "Hasta un niño de nueve años puede manejarlo",
+    "price": 12500,
+    "img": "/img/n1.png",
+    "alt": "Imagen del caza N-1 de Naboo",
+    "category": "Republica"
+  },
+  {
+    "id": 10,
+    "name": "Crucero Republicano",
+    "description": "Para que querian dos puentes no?",
+    "price": 45000,
+    "img": "/img/repcrus.png",
+    "alt": "Imagen del crucero de ataque de la Republica",
+    "category": "Republica"
+  },
+  {
+    "id": 11,
+    "name": "Star Destroyer",
+    "description": "ideal para custodiar bases secretas. Nunca nadie logro superar sus defensas.",
+    "price": 60000,
+    "img": "/img/stardes.png",
+    "alt": "Imagen del Destructor Estelar",
+    "category": "Imperial"
+  }
+]
