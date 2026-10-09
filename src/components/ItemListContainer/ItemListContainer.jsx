@@ -24,7 +24,8 @@ export const ItemListContainer = () => {
 
   return (
     <section>
-      <h1>Productos</h1>
+      <h1>Starship store</h1>
+      <h2>Nuestros productos</h2>
       <ItemList products={products} />
     </section>
   );
