@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "name": "Crucero Republicano",
+    "name": "venator",
     "description": "Para que querian dos puentes no?",
     "price": 45000,
     "img": "/img/repcrus.png",
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "name": "Star Destroyer",
+    "name": "Destructor imperial",
     "description": "ideal para custodiar bases secretas. Nunca nadie logro superar sus defensas.",
     "price": 60000,
     "img": "/img/stardes.png",
